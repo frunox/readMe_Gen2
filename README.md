@@ -1,29 +1,26 @@
-# _readMe.md Generator_
+
+
+# _A Stellar Project_
 
 ## Project Description
 
-This is a command-line app to automate creation of a readMe.md file for your github repository
+Paragraph 1.
 
-## Table of Contents
-This should be a list.
+# _Another Great Project_
 
-## Installation
-Just clone and go.
+## Project Description
 
-## Usage
-Enter node index.js at the command line
+Some text.
 
-## Licensing
-MIT
+# _THEIHT_
 
-## Contributing
-Many, including my project team members:  Lukas Hirsch, Chris Wells, and Jason Koening.
+## Project Description
 
-## Tests
-Not sure what to put here.
+Text, etc.
 
-## Questions
-Lots.  This should be a list.
+# _EIONnglkdf_
 
-![](https://img.shields.io/badge/Project-Creator-brightgreen) frunox  null
-![](https://avatars0.githubusercontent.com/u/60527588?v=4)![](http://bestanimations.com/Animals/Birds/bird-animated-gif-26.gif)
+## Project Description
+
+TIme is of the .
+
