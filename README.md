@@ -1,26 +1,24 @@
+# _Project 1_
 
+## Description
 
-# _A Stellar Project_
+This is some text.  And some more and more.
 
-## Project Description
+Another chunck of text.
 
-Paragraph 1.
+## Table of Contents
 
-# _Another Great Project_
+This is a table of contents.
 
-## Project Description
+## Usage
 
-Some text.
+## License
 
-# _THEIHT_
+MIT.
 
-## Project Description
+## Contributing
 
-Text, etc.
+Thanks to my contributors
 
-# _EIONnglkdf_
-
-## Project Description
-
-TIme is of the .
+And other people, too.
 

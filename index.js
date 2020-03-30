@@ -93,7 +93,7 @@ inquirer.prompt(questions1).then(async function ({ username, projectName }) {
             console.log(err);
         });
     //  start the process of adding additional headers
-    enterHeaders();
+    await enterHeaders();
 });
 
 // enterHeaders() starts the process of building the rest of the readMe file by asking the user
@@ -189,9 +189,11 @@ async function moreText() {
             // if the user doesn't want to add more text, return to enterHeaders() to process the next header
             if (!moreText) {
                 await enterHeaders();
+            } else {
+                // if the user wants to add more text, return to enterText
+                await enterText();
             }
-            // if the user wants to add more text, return to enterText
-            await enterText();
+
         })
         .catch(function (err) {
             console.log(err);
@@ -200,7 +202,7 @@ async function moreText() {
 
 // endProgram() provides feedback to the user and ends the program
 async function endProgram() {
-    console.log("ReadMe.md complete.");
+    console.log("READMe.md complete.");
     process.exit();
 }
 
